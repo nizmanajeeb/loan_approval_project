@@ -1,0 +1,6 @@
+Requirements for loan approval project
+-numpy
+-pandas
+-matplotlib
+-seaborn
+-scikit-learn
